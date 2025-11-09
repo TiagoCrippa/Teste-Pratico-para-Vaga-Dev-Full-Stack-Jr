@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "nome": "Tiago",
+        "email": "tiago@gmail.com",
+        "cep": "14164150",
+        "endereco": "Rua Tenente H\u00e9lio Baptista de Oliveira",
+        "bairro": "Jardim Jamaica",
+        "cidade": "Sert\u00e3ozinho",
+        "estado": "SP"
+    }
+]
