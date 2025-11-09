@@ -51,10 +51,10 @@ Certifique-se de ter instalado:
 
 ```bash
 # 1️⃣ Clone o repositório
-git clone https://github.com/seu-usuario/cadastro-usuarios.git
+git clone https://github.com/TiagoCrippa/Teste-Pratico-para-Vaga-Dev-Full-Stack-Jr.git
 
 # 2️⃣ Acesse a pasta do projeto
-cd cadastro-usuarios
+cd Teste-Pratico-para-Vaga-Dev-Full-Stack-Jr
 
 # 3️⃣ Instale as dependências do frontend
 npm install
